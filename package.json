@@ -1,0 +1,14 @@
+{
+  "name": "barbershop",
+  "version": "1.0.0",
+  "description": "Barberia Desafio Latam",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leonelrojasperez@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
